@@ -1,6 +1,6 @@
 # TP5 – Requêtes avancées JPA/Hibernate : Gestion des Réservations
 
-**ENSA El Jadida – 2025/2026 | Groupe G9**
+**ENSA El Jadida – 2025/2026 | Rajae Elkamili**
 
 ## Objectifs
 
@@ -72,7 +72,3 @@ Construction dynamique de prédicats selon les clés fournies :
 query.setFirstResult((page - 1) * size)
      .setMaxResults(size)
 ```
-
-## Auteurs
-
-Groupe G9 – ENSA El Jadida
